@@ -1,0 +1,6 @@
+[submodule "submodule/G_luaSerialPort"]
+	path = submodule/G_luaSerialPort
+	url = https://github.com/FAKEMANV/G_luaSerialPort.git
+[submodule "submodule/libuv"]
+	path = submodule/libuv
+	url = https://github.com/libuv/libuv.git
